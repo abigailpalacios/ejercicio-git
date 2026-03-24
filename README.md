@@ -1,3 +1,4 @@
 # Mi primer repositorio
-Nombre: [Abigail Palacios]
+
+Nombre: [Abigail Lourdes Palacios]
 Legajo: [64197]
